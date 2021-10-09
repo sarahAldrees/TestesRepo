@@ -16,7 +16,7 @@ class Demo_app extends StatelessWidget {
           ),
         ),
         body: Text(
-          'Hello everyone',
+          'Hello Lama , Ghada and Ghaida',
           style: TextStyle(fontSize: 30),
         ),
       ),
